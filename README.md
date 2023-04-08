@@ -26,3 +26,17 @@ IEEE web development 1st task
     </ul>
   </body>
 </html>
+
+body{
+    font-family: Arial, Helvetica, 'Times New Roman', Times, serif;
+}
+#one{
+    font-size: xx-large;
+}
+#line{
+    height: 2px;
+    background-color: gray;
+}
+h3{
+    color: gray;
+}
